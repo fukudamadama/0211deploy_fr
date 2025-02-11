@@ -1,6 +1,6 @@
 require('dotenv').config()
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-    output: 'stanndalone'}
+    output: 'standalone'}
     
   module.exports = nextConfig
