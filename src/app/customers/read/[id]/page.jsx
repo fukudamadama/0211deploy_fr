@@ -1,4 +1,5 @@
 "use client";
+export const dynamic = 'force-dynamic';
 import OneCustomerInfoCard from "@/app/components/one_customer_info_card.jsx";
 import BackButton from "./back_button";
 import fetchCustomer from "./fetchCustomer";
